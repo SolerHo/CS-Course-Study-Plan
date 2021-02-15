@@ -203,7 +203,15 @@ None
 
 ## Machine Learning
 
-#### 1、Machine Learning
+#### 1、Introduction to Artificial Intelligence
+
+| 课程编号<br />（Course Number） |    讲师<br />（Instructor）    |                  课程链接<br />（Web Page）                  |                  课程作业<br />（Homework）                  | 学校<br />（Universities） |
+| :-----------------------------: | :----------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------: |
+|             CS 188              | Nathan Lambert<br />Satish Rao | 「[Click Here](https://inst.eecs.berkeley.edu/~cs188/sp20/)」 | 「[Click Here](https://inst.eecs.berkeley.edu/~cs188/sp20/)」 |          Berkeley          |
+
+
+
+#### 2、Machine Learning
 
 | 课程编号<br />（Course Number） |        讲师<br />（Instructor）        |                  课程链接<br />（Web Page）                  |                  课程作业<br />（Homework）                  | 学校<br />（Universities） |
 | :-----------------------------: | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------: |
@@ -219,7 +227,7 @@ None
 
 【**参考资源**】
 
-#### 2、Artificial Intelligence: Principles and Techniques
+#### 3、Artificial Intelligence: Principles and Techniques
 
 | 课程编号<br />（Course Number） |          讲师<br />（Instructor）          |                  课程链接<br />（Web Page）                  |                  课程作业<br />（Homework）                  | 学校<br />（Universities） |
 | :-----------------------------: | :----------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------: |
@@ -235,19 +243,19 @@ CS 229 【非必需】
 
 【**参考资源**】
 
-#### 3、Probability for Computer Scientists
+#### 4、Probability for Computer Scientists
 
 | 课程编号<br />（Course Number） |                   讲师<br />（Instructor）                   |               课程链接<br />（Web Page）               |               课程作业<br />（Homework）               | 学校<br />（Universities） |
 | :-----------------------------: | :----------------------------------------------------------: | :----------------------------------------------------: | :----------------------------------------------------: | :------------------------: |
 |             CS 109              | [Chris Piech](http://stanford.edu/~cpiech)<br />[Jerry Cain](https://www.linkedin.com/in/jerry-cain-174b6914a/) | 「[Click Here](http://web.stanford.edu/class/cs109/)」 | 「[Click Here](http://web.stanford.edu/class/cs109/)」 | *Stanford* （斯坦福大学）  |
 
-#### 4、Advanced Topics in Data Science
+#### 5、Advanced Topics in Data Science
 
 | 课程编号<br />（Course Number） |                   讲师<br />（Instructor）                   |                  课程链接<br />（Web Page）                  |                  课程作业<br />（Homework）                  | 学校<br />（Universities） |
 | :-----------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------: |
 |             CS 109B             | [Pavlos Protopapas](mailto:pavlos@seas.harvard.edu) (SEAS)<br /> [Mark Glickman](mailto:glickman@fas.harvard.edu) (Statistics)<br /> [Chris Tanner](mailto:christanner@seas.harvard.edu) (SEAS) | 「[Click Here](https://harvard-iacs.github.io/2020-CS109B/pages/schedule.html)」 | 「[Click Here](https://harvard-iacs.github.io/2020-CS109B/pages/schedule.html)」 |   *Harvard* （哈佛大学）   |
 
-#### 5、Machine Learning with Graphs
+#### 6、Machine Learning with Graphs
 
 | 课程编号<br />（Course Number） |                   讲师<br />（Instructor）                   |                  课程链接<br />（Web Page）                  |                  课程作业<br />（Homework）                  | 学校<br />（Universities） |
 | :-----------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------: |
