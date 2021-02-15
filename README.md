@@ -323,7 +323,30 @@ CS 229 和 CS 221
 
 ## Reinforcement Learning
 
+#### 1、Deep Reinforcement Learning
 
+| 课程编号<br />（Course Number） |                   讲师<br />（Instructor）                   |          课程链接<br />（Web Page）          |          课程作业<br />（Homework）          | 学校<br />（Universities） |
+| :-----------------------------: | :----------------------------------------------------------: | :------------------------------------------: | :------------------------------------------: | :------------------------: |
+|             CS 285              | [Sergey Levine](https://people.eecs.berkeley.edu/~svlevine/) | 「[Click Here](https://cs186berkeley.net/)」 | 「[Click Here](https://cs186berkeley.net/)」 |          Berkeley          |
+
+【**先修内容**】
+
+- Stanford CS 229
+
+【**课程目标**】
+
+
+
+【**参考资源**】
+
+- [David Silver's course on reinforcement learning](http://www0.cs.ucl.ac.uk/staff/D.Silver/web/Teaching.html)
+- [Andrej Karpathy's course on neural networks](http://cs231n.github.io/)
+- [Deep Learning](http://www.deeplearningbook.org/)
+- [Sutton & Barto, Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html)
+- [Szepesvari, Algorithms for Reinforcement Learning](http://www.ualberta.ca/~szepesva/RLBook.html)
+- [Bertsekas, Dynamic Programming and Optimal Control, Vols I and II](http://www.athenasc.com/dpbook.html)
+- [Powell, Approximate Dynamic Programming](http://adp.princeton.edu/)
+- 
 
 ## Robotics
 
